@@ -1,0 +1,15 @@
+/Users/eyyuperdogan/Projects/ClassMetotDemo/ClassMetotDemo/bin/Debug/net7.0/ClassMetotDemo
+/Users/eyyuperdogan/Projects/ClassMetotDemo/ClassMetotDemo/bin/Debug/net7.0/ClassMetotDemo.deps.json
+/Users/eyyuperdogan/Projects/ClassMetotDemo/ClassMetotDemo/bin/Debug/net7.0/ClassMetotDemo.runtimeconfig.json
+/Users/eyyuperdogan/Projects/ClassMetotDemo/ClassMetotDemo/bin/Debug/net7.0/ClassMetotDemo.dll
+/Users/eyyuperdogan/Projects/ClassMetotDemo/ClassMetotDemo/bin/Debug/net7.0/ClassMetotDemo.pdb
+/Users/eyyuperdogan/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/net7.0/ClassMetotDemo.csproj.AssemblyReference.cache
+/Users/eyyuperdogan/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/net7.0/ClassMetotDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eyyuperdogan/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/net7.0/ClassMetotDemo.AssemblyInfoInputs.cache
+/Users/eyyuperdogan/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/net7.0/ClassMetotDemo.AssemblyInfo.cs
+/Users/eyyuperdogan/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/net7.0/ClassMetotDemo.csproj.CoreCompileInputs.cache
+/Users/eyyuperdogan/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/net7.0/ClassMetotDemo.dll
+/Users/eyyuperdogan/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/net7.0/refint/ClassMetotDemo.dll
+/Users/eyyuperdogan/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/net7.0/ClassMetotDemo.pdb
+/Users/eyyuperdogan/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/net7.0/ClassMetotDemo.genruntimeconfig.cache
+/Users/eyyuperdogan/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/net7.0/ref/ClassMetotDemo.dll
